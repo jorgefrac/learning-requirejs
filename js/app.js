@@ -1,1 +1,3 @@
-console.log("::: APP :::");
+define(function (require) {
+	console.log("::: APP :::");
+});
