@@ -6,7 +6,11 @@ Install requireJS
 npm install requirejs
 ```
 
-Create file `js/require.js`
+Create file in folder 📁`javascript/require.js`
 ```html
 <script data-main="scripts/main" src="scripts/require.js"></script>
+```
+
+```
+
 ```
